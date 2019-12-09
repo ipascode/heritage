@@ -7,3 +7,6 @@ An overview of the project files and folders:
   - Classifying Heritage Elements - jupyter notebook containing data analysis and classification
   - data - folder containing the train and test images
   - models - folder containing H5 files of models and their weights
+  
+ 
+View the jupyter notebook [here](https://github.com/xacasi/heritage/blob/master/Classifying%20Heritage%20Elements.ipynb).

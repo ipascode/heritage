@@ -1,4 +1,4 @@
-# Heritage Elements Classification
+# Architectural Heritage Elements Classification
 
 This project uses a CNN to classify images in the [architectural heritage elements dataset](https://old.datahub.io/dataset/architectural-heritage-elements-image-dataset). 
 It mainly uses keras, along with the following libraries: sklearn, mpl_toolkits, os, numpy, pandas, matplotlib.

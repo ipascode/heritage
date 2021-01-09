@@ -9,4 +9,4 @@ An overview of the project files and folders:
   - models - folder containing H5 files of models and their weights
   
  
-View the jupyter notebook [here](https://github.com/xacasi/heritage/blob/master/Classifying%20Heritage%20Elements.ipynb).
+View the jupyter notebook [here](https://github.com/ipascode/heritage/blob/master/Classifying%20Heritage%20Elements.ipynb).
